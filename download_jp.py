@@ -65,7 +65,7 @@ def save_webpage(url, output_file, retries=3, delay=1):
 # %%
 def main():
     cse_id = "a1d1da029b71840bf"
-    api_key = "AIzaSyBBgnzo0OuwKq0Tua3P5O0Qkz87QUPny8M"
+    api_key = "AI"
     # search_term = '福山雅治 桜坂'
     search_term = sys.argv[1]
     
