@@ -169,7 +169,7 @@ def download_spotify_track(url, output_filename, output_dir='.', max_retries=3):
 # %%
 def main():
     cse_id = "92796b2a267ad43f9"
-    api_key = "AIzaSyBBgnzo0OuwKq0Tua3P5O0Qkz87QUPny8M"
+    api_key = "AI"
     # search_term = '谭咏麟 酒红色的心'
     search_term = sys.argv[1]
     
